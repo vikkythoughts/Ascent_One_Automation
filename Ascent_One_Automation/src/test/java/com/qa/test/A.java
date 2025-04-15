@@ -28,6 +28,7 @@ public class A extends TestBase{
 		enterBaseURL();
 		lPage = new LoginPage(driver);
 		lPage.loginToApp();
+		System.out.println("Hello");
 		
 	}
 
