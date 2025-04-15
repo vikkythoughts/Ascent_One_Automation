@@ -29,6 +29,7 @@ public class A extends TestBase{
 		lPage = new LoginPage(driver);
 		lPage.loginToApp();
 		System.out.println("Hello");
+		System.out.println("QA Team");
 		
 	}
 
